@@ -1,7 +1,7 @@
 import 'dart:io';
 
 void main() {
-  print('Hello, Perro');
+  print('Hello');
   print('Escribe tu  nombre: ');
   String? nameInput = stdin.readLineSync();
   print('Un gusto conocerte, $nameInput');
